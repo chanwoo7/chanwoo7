@@ -1,10 +1,12 @@
-## Hi there 👋
+## ✨ Welcome
 안녕하세요, **지속적인 학습과 성장**을 추구하는 개발자 **이찬우**입니다!<br>
 Hello, I'm **Chanwoo Lee**, a developer **who pursues continuous learning and growth**!
+### 📞 Contact
+<a href="mailto:chanwoo9987@gmail.com"><img src="https://img.shields.io/badge/chanwoo9987@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:chanwoo9987@gmail.com"/></a>
 
 <br>
 
-## Tech Stack 💻
+## 💻 Tech Stack
 ### Backend
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><nobr>
@@ -34,13 +36,13 @@ Hello, I'm **Chanwoo Lee**, a developer **who pursues continuous learning and gr
 
 <br>
 
-## Certificate 🪪
+## 🪪 Certificate
 - 정보처리기사 (2024.06 ~ )
 - SQLD (2024.06 ~ )
 
 <br>
 
-## Github Stats 📊
+## 📊 Github Stats
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chanwoo7&theme=dark" width="35%"><nobr>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanwoo7&theme=dark" width="50%">
 <br>
