@@ -33,12 +33,13 @@ Hello, I'm **Chanwoo Lee**, a developer **who pursues continuous learning and gr
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/mysql_workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><nobr/>
 
 <br>
 
 ## 🪪 Certificate
-- 정보처리기사 (2024.06 ~ )
-- SQLD (2024.06 ~ )
+- 정보처리기사 (2024.06.~)
+- SQLD (2024.06.~)
 
 <br>
 
