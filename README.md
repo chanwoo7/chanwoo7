@@ -1,6 +1,6 @@
 ## ✨ Hi, there! 👋
 안녕하세요, **지속적인 학습과 성장**을 추구하는 개발자 **이찬우**입니다!<br>
-주 개발 분야는 **웹 백엔드** 분야이며, 현재는 **Java** 언어와 **Spring** 프레임워크를 활용한 개발을 진행하고 있습니다.<br>
+주 개발 분야는 **웹 백엔드** 분야이며, 현재는 주로 **Java** 언어와 **Spring** 프레임워크를 활용한 개발을 진행하고 있습니다.<br>
 ### ✉️ Contact
 <a href="mailto:chanwoo9987@gmail.com"><img src="https://img.shields.io/badge/chanwoo9987@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:chanwoo9987@gmail.com"/></a>
 
@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white"/><nobr>
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"><nobr>
 
