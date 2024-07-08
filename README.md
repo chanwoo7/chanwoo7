@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chanwoo's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=260)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chanwoo's%20GitHub!%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=67&height=250)
 ## ✨ Hi, there! 👋
 안녕하세요, **지속적인 학습과 성장**을 추구하는 개발자 **이찬우**입니다!<br>
 주 개발 분야는 **웹 백엔드** 분야이며, 현재는 주로 **Java** 언어와 **Spring** 프레임워크를 활용한 개발을 진행하고 있습니다.<br>
