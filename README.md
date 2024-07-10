@@ -2,7 +2,7 @@
 <div align="center">
 <h2>✨ Hi, there! 👋</h2>
 안녕하세요, <b>지속적인 학습과 성장</b>을 추구하는 개발자 <b>이찬우</b>입니다!<br>
-주 개발 분야는 <b>웹 백엔드</b> 분야이며, 현재는 주로 <b>Java</b> 언어와 <b>Spring</b> 프레임워크를 활용한 개발을 진행하고 있습니다.<br>
+현재는 주로 <b>Java</b> 언어와 <b>Spring</b> 프레임워크를 활용한 웹 개발을 진행하고 있습니다.<br>
 <h3>🪪 Contact<h3>
 <a href="mailto:chanwoo9987@gmail.com"><img src="https://img.shields.io/badge/chanwoo9987@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:chanwoo9987@gmail.com"/></a>
 
