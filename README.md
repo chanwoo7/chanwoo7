@@ -58,7 +58,7 @@
 <br>
 <!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chanwoo7&theme=dark" width="35%"><nobr>-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoo7&layout=compact&hide=asp.net&theme=dark" width="35%"><nobr>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chanwoo7&theme=dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chanwoo7&theme=dark" width="50%" height="95%">
 
 </div>
 
