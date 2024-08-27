@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chanwoo's%20GitHub!%20&animation=twinkling&fontSize=35&height=250)
 <div align="center">
 안녕하세요, <b>지속적인 학습과 성장</b>을 추구하는 개발자 <b>이찬우</b>입니다!<br>
-현재는 주로 <b>Java</b> 언어와 <b>Spring</b> 프레임워크를 활용한 웹 개발을 진행하고 있습니다.<br>
+현재는 주로 <b>Java</b> 언어와 <b>Spring</b> 프레임워크를 활용한 웹 백엔드 개발을 진행하고 있습니다.<br>
 <h3>🪪 Contact<h3>
 <a href="mailto:chanwoo9987@gmail.com"><img src="https://img.shields.io/badge/chanwoo9987@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:chanwoo9987@gmail.com"/></a>
 
@@ -12,6 +12,7 @@
 <h3>Backend</h3>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/spring_data_jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><nobr>
