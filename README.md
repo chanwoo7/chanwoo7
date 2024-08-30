@@ -1,73 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Chanwoo's%20GitHub!%20&animation=twinkling&fontSize=35&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&text=Welcome%20to%20Chanwoo's%20GitHub!%20&animation=twinkling&fontSize=0&height=100)
 <div align="center">
-안녕하세요, <b>지속적인 학습과 성장</b>을 추구하는 개발자 <b>이찬우</b>입니다!<br>
-현재는 주로 <b>Java</b> 언어와 <b>Spring</b> 프레임워크를 활용한 웹 백엔드 개발을 진행하고 있습니다.<br>
-<h3>🪪 Contact<h3>
-<a href="mailto:chanwoo9987@gmail.com"><img src="https://img.shields.io/badge/chanwoo9987@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:chanwoo9987@gmail.com"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=0EB4FC&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Chanwoo+Lee;develop+web+backends+with+Java" alt="Typing SVG" /></a>
+<br><br>
 
+<h3>🛠️ Tech Stack 🛠️</h3>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
+<!-- <img src="https://img.shields.io/badge/Spring_boot-6DB33F?style=plastic&logo=springboot&logoColor=white"><nobr> -->
+<img src="https://img.shields.io/badge/Junit5-25A162?style=plastic&logo=Junit5&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white"><nobr>
 <br>
-<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F?style=plastic&logo=Thymeleaf&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Bootstrap5-7952B3?style=plastic&logo=bootstrap&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"><nobr>
+<br><br>
 
-<h2>💻 Tech Stack</h2>
-<h3>Backend</h3>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/spring_data_jpa-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/spring_security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/spring_boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=Junit5&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"><nobr>
-<!-- <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"><nobr>-->
-  
-<h3>Frontend</h3>
-<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F?style=for-the-badge&logo=Thymeleaf&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/bootstrap5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><nobr>
+<details>
+<summary><b>About More</b></summary>
+<h3>Contact<h3>
+<a href="mailto:chanwoo9987@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:chanwoo9987@gmail.com"/></a>
+<a href="https://instagram.com/chanu._.lee">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+</a>
+<br><br>
 
-<h3>Database</h3>
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=mongoDB&logoColor=white"><nobr>
-
-<h3>DevOps</h3>
-<img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"><nobr>
-
-<h3>Version Control</h3>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><nobr>
-
-<h3>Tools</h3>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"><nobr/>
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/mysql_workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"><nobr/>
-<br>
-
-<h2>🪪 Certificate</h2>
+<h3>🪪 Certificate</h3>
 
 <div>• 정보처리기사 (2024.06.~)</div>
 <div>• SQLD (2024.06.~)</div>
+</details>
+<br><br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoo7&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=false&exclude_repo=Face-Transfer-Application" width=38% />
+<img src="https://github-readme-stats.vercel.app/api?username=chanwoo7&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chanwoo7&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+<br><br>
 
-
-<br>
-
-<h2>📊 Github Stats</h2>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chanwoo7&theme=dark" width="86%">
-<br>
-<!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chanwoo7&theme=dark" width="35%"><nobr>-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoo7&layout=compact&hide=asp.net&theme=dark" width="35%"><nobr>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chanwoo7&theme=dark" width="50%" height="95%">
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5433FF,50:20BDFF,100:A5FECB&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 </div>
-
-
-<!--
-<a href="s">
-  <img height=165 src="https://github-readme-stats.vercel.app/api?username=chanwoo7&theme=cobalt&show_icons=true&hide=&rank_icon=github" />
-</a>
-<a href="s">  
-  <img height=165 src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoo7&exclude_repo=jm3789.github.io&hide_progress=true&theme=cobalt" /> 
-</a>
--->
