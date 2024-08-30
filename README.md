@@ -31,9 +31,8 @@
 <br>
 
 <h3>Certificate</h3>
-
-<div>• 정보처리기사 (2024.06.~)</div>
-<div>• SQLD (2024.06.~)</div>
+<div>• Engineer Information Processing (2024.06, HRDK)</div>
+<div>• SQLD (2024.06, K-DATA)</div>
 </details>
 <br><br>
 
