@@ -28,9 +28,9 @@
 <a href="https://instagram.com/chanu._.lee">
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
 </a>
-<br><br>
+<br>
 
-<h3>🪪 Certificate</h3>
+<h3>Certificate</h3>
 
 <div>• 정보처리기사 (2024.06.~)</div>
 <div>• SQLD (2024.06.~)</div>
