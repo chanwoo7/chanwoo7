@@ -3,13 +3,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=0EB4FC&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Chanwoo+Lee!;develop+web+backends+with+Java" alt="Typing SVG" /></a>
 <br><br><br>
 
+<!-- Hit Count -->
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanwoo7&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br>
+
 <h3>🛠️ Tech Stack 🛠️</h3>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
-<!-- <img src="https://img.shields.io/badge/Spring_boot-6DB33F?style=plastic&logo=springboot&logoColor=white"><nobr> -->
-<img src="https://img.shields.io/badge/Junit5-25A162?style=plastic&logo=Junit5&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=JUnit5&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white"><nobr>
 <br>
@@ -17,7 +20,7 @@
 <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F?style=plastic&logo=Thymeleaf&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/Bootstrap5-7952B3?style=plastic&logo=bootstrap&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/BootStrap5-7952B3?style=plastic&logo=bootstrap&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"><nobr>
 <br>
 
@@ -31,12 +34,12 @@
 <br>
 
 <h3>Education</h3>
-<div>• Department of Software, Kookmin University (2021.03.~)</div>
+<div>• 국민대학교 소프트웨어학부 (2021.03.~)</div>
 <br>
 
 <h3>Certificate</h3>
-<div>• Engineer Information Processing (HRDK, 2024.06.)</div>
-<div>• SQLD (K-DATA, 2024.06.)</div>
+<div>• 정보처리기사 (2024.06.~)</div>
+<div>• SQLD (2024.06.~)</div>
 <!-- </details> -->
 <br><br>
 
