@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&text=Welcome%20to%20Chanwoo's%20GitHub!%20&animation=twinkling&fontSize=0&height=100)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=0EB4FC&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Chanwoo+Lee!;develop+web+backends+with+Java" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=0EB4FC&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Chanwoo+Lee!;develop+web+backends" alt="Typing SVG" /></a>
 <br><br><br>
 
 <!-- Hit Count -->
