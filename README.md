@@ -13,16 +13,23 @@
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=JUnit5&logoColor=white"><nobr>
+<br>
 <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white"><nobr>
-<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F?style=plastic&logo=Thymeleaf&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/BootStrap5-7952B3?style=plastic&logo=bootstrap&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black"><nobr>
 <br>
+
+<h4>Now I work with...</h4>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=black"><nobr>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white"><nobr>
+<br><br>
+
 
 <!-- <details> -->
 <!-- <summary><b>About More</b></summary> -->
@@ -40,8 +47,13 @@
 <h3>Certificate</h3>
 <div>• 정보처리기사 (2024.06.~)</div>
 <div>• SQLD (2024.06.~)</div>
-<!-- </details> -->
+<br>
+
+<h3>Programs</h3>
+<div>• La Piscine - 42 Seoul (2023.01. ~ 2023.02.)</div>
+<div>• KMU PBL Bootcamp - CodeStates (2024.01)</div>
 <br><br>
+<!-- </details> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoo7&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&hide=html" width=38% />
 <img src="https://github-readme-stats.vercel.app/api?username=chanwoo7&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
