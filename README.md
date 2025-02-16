@@ -41,17 +41,17 @@
 <br>
 
 <h3>Education</h3>
-<div>• 국민대학교 소프트웨어학부 (2021.03.~)</div>
+<div>• 국민대학교 소프트웨어학부 (2021.03. ~ )</div>
 <br>
 
 <h3>Certificate</h3>
-<div>• 정보처리기사 (2024.06.~)</div>
-<div>• SQLD (2024.06.~)</div>
+<div>• 정보처리기사 (2024.06. ~ )</div>
+<div>• SQLD (2024.06. ~ )</div>
 <br>
 
 <h3>Programs</h3>
 <div>• La Piscine - 42 Seoul (2023.01. ~ 2023.02.)</div>
-<div>• KMU PBL Bootcamp - CodeStates (2024.01)</div>
+<div>• KMU PBL Bootcamp - CodeStates (2024.01.)</div>
 <br><br>
 <!-- </details> -->
 
