@@ -47,7 +47,7 @@
 <h3>Certificate</h3>
 <div>• 정보처리기사 (2024.06. ~ )</div>
 <div>• SQLD (2024.06. ~ )</div>
-<br>
+<br><br>
 
 <!-- <h3>Programs</h3> -->
 <!-- <div>• La Piscine - 42 Seoul (2023.01. ~ 2023.02.)</div> -->
