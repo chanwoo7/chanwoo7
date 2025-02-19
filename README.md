@@ -49,10 +49,10 @@
 <div>• SQLD (2024.06. ~ )</div>
 <br>
 
-<h3>Programs</h3>
-<div>• La Piscine - 42 Seoul (2023.01. ~ 2023.02.)</div>
-<div>• KMU PBL Bootcamp - CodeStates (2024.01.)</div>
-<br><br>
+<!-- <h3>Programs</h3> -->
+<!-- <div>• La Piscine - 42 Seoul (2023.01. ~ 2023.02.)</div> -->
+<!-- <div>• KMU PBL Bootcamp - CodeStates (2024.01.)</div> -->
+<!-- <br><br> -->
 <!-- </details> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanwoo7&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&hide=html" width=38% />
