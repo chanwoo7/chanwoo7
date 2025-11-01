@@ -12,32 +12,25 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=plastic&logo=spring&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=JUnit5&logoColor=white"><nobr>
+<br>
+<img src="https://img.shields.io/badge/NestJS-E0234E.svg?style=plastic&logo=nestjs&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"><nobr>
 <br>
 <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/django-092E20?style=plastic&logo=django&logoColor=white"><nobr>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"><nobr>
-<br>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white"><nobr>
-<img src="https://img.shields.io/badge/Typescript-3178C6?style=plastic&logo=Typescript&logoColor=white"><nobr>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white"><nobr>
 <br><br>
 
-<h3>Contact<h3>
-<a href="mailto:chanwoo9987@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:chanwoo9987@gmail.com"/></a>
-<a href="https://instagram.com/chanu._.lee">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-</a>
-<br>
-
 <h3>Education</h3>
-<div>• 국민대학교 소프트웨어학부 (2021.03. ~ )</div>
+<div>• 국민대학교 소프트웨어학부 (2021.03)</div>
 <br>
 
 <h3>Certificate</h3>
-<div>• 정보처리기사 (2024.06. ~ )</div>
-<div>• SQLD (2024.06. ~ )</div>
-<div>• ADsP (2025.06. ~ )</div>
+<div>• 정보처리기사 (2024.06)</div>
+<div>• SQLD (2024.06)</div>
+<div>• ADsP (2025.06)</div>
 <br><br>
 
 
