@@ -5,7 +5,7 @@
 
 <!-- Hit Count -->
 <a href="https://hitscounter.dev"><img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fchanwoo7&label=Hits&icon=github&color=%233d8bfd&message=&style=social&tz=Asia%2FSeoul"/></a>
-<br>
+<br><br>
 
 <h3>🛠️ Tech Stack 🛠️</h3>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"/>
@@ -24,13 +24,13 @@
 <br><br>
 
 <h3>Education</h3>
-<div>• 국민대학교 소프트웨어학부 (2021.03)</div>
+<div>• 국민대학교 소프트웨어학부 (2021.03 ~)</div>
 <br>
 
 <h3>Certificate</h3>
-<div>• 정보처리기사 (2024.06)</div>
-<div>• SQLD (2024.06)</div>
-<div>• ADsP (2025.06)</div>
+<div>• 정보처리기사 (2024.06, HRDK)</div>
+<div>• SQLD (2024.06, K-data)</div>
+<div>• ADsP (2025.06, K-data)</div>
 <br><br>
 
 
